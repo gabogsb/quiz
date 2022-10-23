@@ -1,14 +1,14 @@
 const data = [
-  // {
-  //   question: 'O que é Vanilla JavaScript?',
-  //   options: [
-  //     'JavaScript puro',
-  //     'Uma biblioteca JavaScript',
-  //     'Um framework JavaScript',
-  //     'Um compilador de JavaScript',
-  //   ],
-  //   answer: 'JavaScript puro',
-  // },
+  {
+    question: 'O que é Vanilla JavaScript?',
+    options: [
+      'JavaScript puro',
+      'Uma biblioteca JavaScript',
+      'Um framework JavaScript',
+      'Um compilador de JavaScript',
+    ],
+    answer: 'JavaScript puro',
+  },
   {
     question: 'Com qual instrução declaramos uma constante em JavaScript?',
     options: ['const', 'let', 'var', 'define'],
