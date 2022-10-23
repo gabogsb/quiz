@@ -30,6 +30,11 @@ const data = [
     options: ['qty', 'length', 'items', 'index'],
     answer: 'length',
   },
+  {
+    question: 'Quem ama mais a Mariana?',
+    options: ['Gabo', 'Lucas', 'Dj Lucas Beat', 'Amor da tua vida'],
+    answer: 'Amor da tua vida',
+  },
 ];
 
 export default data;
